@@ -1,2 +1,3 @@
 # Nord-Charm-
-Delivery service provided by happy Goat!
+Delivery service for everyone!
+
